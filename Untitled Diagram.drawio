@@ -67,7 +67,7 @@
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-5" value="" style="group" vertex="1" connectable="0" parent="MugBKoGFxdHCwpsHW_FZ-7">
           <mxGeometry x="20" y="40" width="190" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ujgzsudaIQIlg2-sO98x-6" value="\drivers-internal" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-5" vertex="1">
+        <mxCell id="ujgzsudaIQIlg2-sO98x-6" value="\internal" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-5" vertex="1">
           <mxGeometry width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ujgzsudaIQIlg2-sO98x-8" value="\hf-internal-interface-wrap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="MugBKoGFxdHCwpsHW_FZ-5" vertex="1">
@@ -79,7 +79,7 @@
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-6" value="" style="group" vertex="1" connectable="0" parent="MugBKoGFxdHCwpsHW_FZ-7">
           <mxGeometry x="230" y="40" width="300" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="ujgzsudaIQIlg2-sO98x-14" value="\drivers-external" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-6" vertex="1">
+        <mxCell id="ujgzsudaIQIlg2-sO98x-14" value="\external" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-6" vertex="1">
           <mxGeometry width="300" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ujgzsudaIQIlg2-sO98x-15" value="\hf-as5047u-driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="MugBKoGFxdHCwpsHW_FZ-6" vertex="1">
