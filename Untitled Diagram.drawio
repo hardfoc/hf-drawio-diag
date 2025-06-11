@@ -43,7 +43,7 @@
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-4" value="" style="group;strokeWidth=5;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-20" y="330" width="300" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ujgzsudaIQIlg2-sO98x-5" value="\hf-utils" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-4" vertex="1">
+        <mxCell id="ujgzsudaIQIlg2-sO98x-5" value="\utils" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-4" vertex="1">
           <mxGeometry width="300" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ujgzsudaIQIlg2-sO98x-1" value="\hf-utils-thread-safe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="MugBKoGFxdHCwpsHW_FZ-4" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-7" value="" style="group;strokeWidth=5;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="290" width="550" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-2" value="\hf-drivers" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-7">
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-2" value="\drivers" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-7">
           <mxGeometry width="550" height="310" as="geometry" />
         </mxCell>
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-5" value="" style="group" vertex="1" connectable="0" parent="MugBKoGFxdHCwpsHW_FZ-7">
@@ -124,17 +124,32 @@
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-10" value="&lt;b&gt;= HARDWARE and RTOS AGNOSTIC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-20">
           <mxGeometry x="120" y="15" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-44" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="355" y="680" width="160" height="80" as="geometry" />
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="680" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-45" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;= ESP-IDF COMPONENT (CMakeLists.txt and KCONFIG added)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="700" width="240" height="40" as="geometry" />
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-49" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\hf-&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;fontSize=22;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-51">
+          <mxGeometry width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="798.87" width="170" height="21.132075471698112" as="geometry" />
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-50" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;= Git repository&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-51">
+          <mxGeometry x="60" y="10" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-48" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;= (files) COMPONENT HANDLER THAT UNIFIES INTERFACE&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="798.87" width="240" height="40" as="geometry" />
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="750" width="435" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-52">
+          <mxGeometry width="170" height="21.132075471698112" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-48" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;= (files) COMPONENT HANDLER THAT UNIFIES INTERFACE&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-52">
+          <mxGeometry x="195" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="800" width="415" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-44" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-53">
+          <mxGeometry x="20" y="10" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-45" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;= ESP-IDF COMPONENT (CMakeLists.txt and KCONFIG added)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-53">
+          <mxGeometry x="170" y="25" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
