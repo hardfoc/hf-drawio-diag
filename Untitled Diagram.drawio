@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="FhQWMNnF3R9wmjdMntHF">
-    <mxGraphModel dx="2887" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2038" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,28 +77,16 @@
           <mxGeometry width="550" height="310" as="geometry" />
         </mxCell>
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-5" value="" style="group" vertex="1" connectable="0" parent="MugBKoGFxdHCwpsHW_FZ-7">
-          <mxGeometry x="20" y="40" width="190" height="250" as="geometry" />
+          <mxGeometry x="20" y="40" width="190" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ujgzsudaIQIlg2-sO98x-6" value="\internal" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-5" vertex="1">
-          <mxGeometry width="190" height="250" as="geometry" />
+          <mxGeometry width="190" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ujgzsudaIQIlg2-sO98x-8" value="&lt;br&gt;\hf-internal-interface-wrap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=light-dark(#000000, #996500);strokeWidth=6;verticalAlign=top;" parent="MugBKoGFxdHCwpsHW_FZ-5" vertex="1">
-          <mxGeometry x="20" y="41.67" width="150" height="118.33" as="geometry" />
+        <mxCell id="ujgzsudaIQIlg2-sO98x-8" value="\hf-internal-interface-wrap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=light-dark(#d69a1e, #996500);strokeWidth=1;" parent="MugBKoGFxdHCwpsHW_FZ-5" vertex="1">
+          <mxGeometry x="20" y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ujgzsudaIQIlg2-sO98x-9" value="\hf-pincfg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="MugBKoGFxdHCwpsHW_FZ-5" vertex="1">
-          <mxGeometry x="40" y="180" width="110" height="51.11" as="geometry" />
-        </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-69" value="" style="group" vertex="1" connectable="0" parent="MugBKoGFxdHCwpsHW_FZ-5">
-          <mxGeometry x="40" y="90" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-70" value="CmakeLists.txt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-69">
-          <mxGeometry width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-71" value="KCONFIG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-69">
-          <mxGeometry y="20" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="MugBKoGFxdHCwpsHW_FZ-72" value="idf_component.yml" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-69">
-          <mxGeometry y="40" width="110" height="20" as="geometry" />
+          <mxGeometry x="40" y="100" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-6" value="" style="group" vertex="1" connectable="0" parent="MugBKoGFxdHCwpsHW_FZ-7">
           <mxGeometry x="230" y="40" width="300" height="250" as="geometry" />
