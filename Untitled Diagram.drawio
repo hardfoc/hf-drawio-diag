@@ -37,6 +37,18 @@
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-43" value="hf_api" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-22">
           <mxGeometry x="380" y="60" width="170" height="21.132075471698112" as="geometry" />
         </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-65" value="" style="group" vertex="1" connectable="0" parent="MugBKoGFxdHCwpsHW_FZ-22">
+          <mxGeometry x="60" y="21.129999999999995" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-66" value="CmakeLists.txt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-65">
+          <mxGeometry width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-67" value="KCONFIG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-65">
+          <mxGeometry y="20" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-68" value="idf_component.yml" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-65">
+          <mxGeometry y="40" width="110" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-3" value="\hf-utils-and-drivers" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-50" y="260" width="950" height="360" as="geometry" />
         </mxCell>
@@ -150,6 +162,30 @@
         </mxCell>
         <mxCell id="MugBKoGFxdHCwpsHW_FZ-45" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;= ESP-IDF COMPONENT (CMakeLists.txt and KCONFIG added)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-53">
           <mxGeometry x="170" y="25" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1050" y="460" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-56" value="CmakeLists.txt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-59">
+          <mxGeometry width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-57" value="KCONFIG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-59">
+          <mxGeometry y="20" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-58" value="idf_component.yml" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-59">
+          <mxGeometry y="40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-61" value="CmakeLists.txt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-60">
+          <mxGeometry width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-62" value="KCONFIG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-60">
+          <mxGeometry y="20" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MugBKoGFxdHCwpsHW_FZ-63" value="idf_component.yml" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" vertex="1" parent="MugBKoGFxdHCwpsHW_FZ-60">
+          <mxGeometry y="40" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
